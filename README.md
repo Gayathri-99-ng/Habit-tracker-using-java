@@ -21,12 +21,12 @@ Concepts Used: OOP, Collections (ArrayList), LocalDate/LocalTime
 Tools: Any IDE (IntelliJ IDEA / Eclipse / VS Code)
 
 📂 Project Structure
-habit-tracker-java/
-│
-├── src/
-│   ├── Habit.java
-│   ├── HabitTracker.java
-│   └── Main.java
-│
-└── README.md
+habit-tracker-java/  
+│  
+├── src/  
+│   ├── Habit.java  
+│   ├── HabitTracker.java  
+│   └── Main.java  
+│  
+└── README.md  
 
