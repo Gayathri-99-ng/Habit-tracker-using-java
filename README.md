@@ -30,3 +30,44 @@ habit-tracker-java/
 │  
 └── README.md  
 
+▶️ How to Run  
+
+Clone the repository:
+```bash
+git clone https://github.com/YourUsername/habit-tracker-java.git
+cd habit-tracker-java
+```
+
+
+Compile the Java file:
+```bash
+javac src/HabitTracker.java
+```
+
+Run the program:
+```bash
+java src/HabitTracker
+```
+
+Usage when u run the program you'll see a menu like this
+1. Add Habit 
+2. Modify Habit 
+3. Delete Habit 
+4. View Habits 
+5.Mark/Unmark Habits
+6. Exit
+
+Example habit list output
+1. ❌Not Done tiffin at 08:00 | Time left: 16 hrs 7 min [Tomorrow]  
+2. ❌Not Done lunch at 13:00 | Time left: 21 hrs 7 min [Tomorrow]  
+3. ❌Not Done dinner at 22:00 | Time left: 6 hrs 7 min [Today]  
+Progress: 0/3 habits completed (0%)  
+
+🔮 Future Enhancements
+  
+Add file/database support to store habits permanently  
+Build a GUI with JavaFX for better user experience  
+Introduce reminders & notifications using LocalTime  
+Generate reports & analytics (progress charts, streaks)  
+Add gamification (badges, points, streak rewards)  
+Extend to multi-user support and future cloud sync  
